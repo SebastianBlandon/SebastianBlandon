@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Fondo circular -->
+  <circle cx="100" cy="100" r="100" fill="#333" />
+  
+  <!-- Cara -->
+  <circle cx="100" cy="85" r="40" fill="#F5D0C5" />
+  
+  <!-- Cabello -->
+  <path d="M60 85 A40 40 0 0 1 140 85 L140 50 A40 40 0 0 0 60 50 Z" fill="#222" />
+  
+  <!-- Ojos -->
+  <circle cx="85" cy="80" r="5" fill="#222" />
+  <circle cx="115" cy="80" r="5" fill="#222" />
+  
+  <!-- Sonrisa -->
+  <path d="M85 100 Q100 115 115 100" stroke="#222" stroke-width="3" fill="transparent" />
+  
+  <!-- Cuerpo/Ropa -->
+  <path d="M60 125 L60 180 L140 180 L140 125 Z" fill="#6a1b9a" />
+  
+  <!-- Cuello -->
+  <rect x="85" y="125" width="30" height="15" fill="#F5D0C5" />
+</svg>
